@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.input-50{
+    width: 48%;
+}
+.head{
+    font-size: 12px;
+}
+.terms{
+    display: block;
+    font-size: 10px;
+    text-align: left;
+    padding: 5px ;
+}
+.button-signup{
+    display: block;
+    background-color: #00a400;
+    width: 40%;
+}
